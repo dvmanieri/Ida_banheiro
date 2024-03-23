@@ -1,3 +1,5 @@
+
+
 # Projeto TecToilet por TEMPLÁRIOS
 
 No constante esforço de melhorar a experiência dos alunos e funcionários do SENAI São Carlos, estou entusiasmado em anunciar o desenvolvimento de um software inovador que revolucionará a gestão do acesso aos banheiros dentro das instalações.
@@ -18,6 +20,22 @@ O novo Sistema de Regulação de Acesso aos Banheiros foi concebido com o objeti
 O Sistema de Regulação de Acesso aos Banheiros representa um passo significativo em direção à modernização e ao aprimoramento das práticas de gestão do SENAI São Carlos. Estou ansioso para testemunhar os benefícios tangíveis que essa iniciativa trará para nossa comunidade, promovendo um ambiente mais harmonioso e produtivo para todos. Juntos, estamos moldando um futuro mais brilhante e tecnologicamente avançado para o nosso estimado instituto.
 
 ## Instalação
+
+Forneça instruções claras sobre como instalar o seu projeto. Inclua pré-requisitos, se houver, e os comandos necessários para instalar o seu projeto.
+
+Exemplo:
+
+## Como Usar
+
+Forneça instruções claras sobre como instalar o seu projeto. Inclua pré-requisitos, se houver, e os comandos necessários para instalar o seu projeto.
+
+Exemplo:
+## Contribuindo
+
+Forneça instruções claras sobre como instalar o seu projeto. Inclua pré-requisitos, se houver, e os comandos necessários para instalar o seu projeto.
+
+Exemplo:
+## Licença
 
 Forneça instruções claras sobre como instalar o seu projeto. Inclua pré-requisitos, se houver, e os comandos necessários para instalar o seu projeto.
 
